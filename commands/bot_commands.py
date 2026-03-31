@@ -30,7 +30,7 @@ class Other(commands.Cog):
             colour=discord.Colour.blue()
         )
         page1.set_author(name="Commands")
-        page1.add_field(name="__CS IHU__", value="**-services** - Εμφανίζει όλες τις υπηρεσίες για το τμήμα..\n"
+        page1.add_field(name="__CS IHU__", value="**-services** - Εμφανίζει όλες τις υπηρεσίες για το τμήμα.\n"
                                             "**-teachers** - Εμφανίζει πληροφορίες για τους καθηγητές του τμήματος.\n"
                                             "**-map** - Εμφανίζει τον χάρτη για κτήρια τμήματος.\n"
                                             "**-foodclub** - Εμφανίζει τα ωράρια της λέσχης.\n"
